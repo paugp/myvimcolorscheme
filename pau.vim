@@ -45,7 +45,7 @@ hi DiffDelete   guibg=gray45         guifg=black     gui=none
 
 
 " syntax highlighting groups
-hi Comment      guifg=black guibg=#37c9ff gui=italic
+hi Comment      guifg=grey gui=italic
 hi Constant     guifg=#82EF2A         gui=none
 hi Identifier   guifg=Skyblue        gui=none
 hi Function     guifg=#ffae66        gui=none
