@@ -1,0 +1,6 @@
+Author: Pau Gallardo
+Contact: pau DOT portalp AT gmail DOT com
+
+Install:
+#Copy into .vim/color folder
+$cp pau.vim ~/.vim/color/
